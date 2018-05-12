@@ -1,0 +1,32 @@
+_repo: Infinite-Intruder_31223
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Edwards, Al
+    - Nourse, Alan E. (Alan Edward)
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
+description: When Roger Strang found that someone was killing his son-killing him
+  horribly and often-he started investigating. He wasn't prepared to find the results
+  of another investigation-this time about his own life.
+gutenberg_issued: '2010-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Infinite Intruder
+url: http://www.gutenberg.org/ebooks/31223
